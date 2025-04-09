@@ -1,0 +1,68 @@
+.card{
+  border: 1px solid rgb(132, 129, 129);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+  background-color: rgb(2, 248, 125);
+  /* background-color: rgba(132, 129, 129, 0); */
+}
+
+.card:hover {
+  transform: scale(1.03);
+  transition: 0.2s ease-in-out;
+  box-shadow: 0 0 25px aqua,
+              0 0 50px aqua,
+              0 0 100px aqua;
+}
+
+img{
+  width: 32vw;
+}
+
+img:hover{
+  transform: scale(1.03);
+  transition: 0.4s ease-in-out;
+  box-shadow: 0 0 25px yellow,
+              0 0 50px yellow,
+              0 0 100px yellow;
+}
+
+.card .card-image{
+  max-width: 60%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.card .card-title{
+  font-family: sans-serif;
+  margin: 0;
+  color: hsl(0, 0%, 20%);
+  border-radius: 50% ;
+}
+
+.card .card-title:hover{
+  transform: scale(1.06);
+  transition: 0.4s ease-in-out;
+  box-shadow: 0 0 25px black;
+  border-bottom: 5px solid black ;
+  background-color: white;
+}
+
+.card .card-text{
+  font-family: arial, sans-serif;
+  color: hsl(0, 0%, 30%);
+  border-radius: 50%;
+}
+
+.card .card-text:hover{
+  transform: scale(1.06);
+  transition: 0.4s ease-in-out;
+  box-shadow: 0 0 25px black;
+  border-bottom: 5px solid black ;
+  background-color: white;
+}
