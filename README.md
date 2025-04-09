@@ -1,4 +1,4 @@
-#h1 React.js Project Codes <br/>
+<h1> React.js Project Codes </h1> <br/>
 This repository contains the React projects that I have worked on during my journey in learning React.js library of JavaScript.<br/>
 The projects are: <br/>
 1) Color Picker using react (using useState hook) <br/>
