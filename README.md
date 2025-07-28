@@ -1,6 +1,6 @@
-<h1> React.js Project Codes </h1> <br/>
+<h1>🤖 React.js Project Codes </h1> <br/>
 <hr/>
-<p>This repository contains the React projects that I have worked on during my journey in learning React.js library of JavaScript.</p> <br/>
+<p>📃 This repository contains the React projects that I have worked on during my journey in learning React.js library of JavaScript.</p> <br/>
 
 <hr/>
 
